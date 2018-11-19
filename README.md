@@ -15,4 +15,4 @@ Loan.java: getInstance muutsin  staticuks.
 PlanActivity:for loopis muutsin ++n
 PlanActivity: private List= List
 
-Lõin action baris back nupu
+
